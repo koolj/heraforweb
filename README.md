@@ -3,8 +3,8 @@ Professional automation way for web functionality test, load test.
 http://www.testerpro.org/
 
 ## Demo:
-<a href="https://www.youtube.com/watch?v=r7AOkVpGV5E" target="_blank"><img src="https://raw.githubusercontent.com/koolj/heraforweb/master/hera_intro_bg.jpg" 
-alt="Hera Intro" width="1280" height="420" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=r7AOkVpGV5E" target="_blank"><img src="http://img.youtube.com/vi/r7AOkVpGV5E/0.jpg" 
+alt="Hera Intro" width="480" height="320" border="10" /></a>
 
 
 ## Run an example:
