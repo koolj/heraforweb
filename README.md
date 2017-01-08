@@ -19,6 +19,11 @@ alt="Hera Intro" width="480" height="320" border="10" /></a>
 ## Architecture:
 ![](https://raw.githubusercontent.com/koolj/heraforweb/master/hera_arch.jpg)
 
+## Documentation:
++ [English](https://github.com/koolj/heraforweb/blob/master/SetupEN_Userguide_HeraWeb_jan7-2017.docx)
++ [Tiếng Việt](https://github.com/koolj/heraforweb/blob/master/SetupVI_Userguide_HeraWeb_jan7-2017.docx)
++ [More at Wiki](https://github.com/koolj/heraforweb/wiki)
+
 ## Credits:
 KoolJ
 + [F/KoolJ.InDaHouse](https://www.facebook.com/KoolJ.InDaHouse)
