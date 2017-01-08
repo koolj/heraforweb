@@ -16,7 +16,7 @@ alt="Hera Intro" width="1280" height="720" border="10" /></a>
 4. View the test report on "report" folder
 
 ## Architecture:
-![Hera Architecture](https://raw.githubusercontent.com/koolj/heraforweb/master/hera_intro_bg.jpg"Hera Architecture")
+![Hera Architecture](https://raw.githubusercontent.com/koolj/heraforweb/master/hera_arch.png"Hera Architecture")
 
 ## Credits:
 KoolJ
