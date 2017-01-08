@@ -11,9 +11,9 @@ alt="Hera Intro" width="480" height="320" border="10" /></a>
 1. Git the repo, or download the zip from GitHub
 2. Unzip, "cd" to that folder
 3. Run the example: 
-⋅⋅⋅(to automated test login function of website: http://www.store.demoqa.com)
-⋅⋅* On Window, run on terminal: ```java -cp lib\*;bin org.testng.TestNG run.xml```
-⋅⋅* On Mac/Unix/Linux, run on terminal: ```java -cp lib/*:bin org.testng.TestNG run.xml```
++ (to automated test login function of website: http://www.store.demoqa.com)
++  On Window, run on terminal: ```java -cp lib\*;bin org.testng.TestNG run.xml```
++  On Mac/Unix/Linux, run on terminal: ```java -cp lib/*:bin org.testng.TestNG run.xml```
 4. View the test report on "report" folder
 
 ## Architecture:
